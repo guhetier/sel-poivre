@@ -16,7 +16,7 @@ sidebar:
 
 # Instructions
 
-- Make a [short crust pastry]({% post_url 20260-01-02-short-crust %}).
+- Make a [short crust pastry]({% post_url 2026-01-02-short-crust %}).
 - Pre-heat the oven at **180°C** (356°F) while the pasty is chilling.
 - Blind bake the pastry for ~20 minutes.
 - Fry the bacon bits until golden, remove the excess fat.
