@@ -14,6 +14,8 @@ sidebar:
       - Nutmeg
 ---
 
+Traditional quiche with cream and lardons.
+
 # Instructions
 
 - Make a [short crust pastry]({{ "" | relative_url }}{% post_url 2026-01-02-short-crust %}).

@@ -11,6 +11,8 @@ sidebar:
       - Salt, a pinch
 ---
 
+Basic crust for sweet or savory tarts.
+
 # Instructions
 
 - Cut the cold butter in small chunks.
