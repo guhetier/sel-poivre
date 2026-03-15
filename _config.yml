@@ -9,9 +9,9 @@ title: "Sel Poivre"
 email:
 description: >- # this means to ignore newlines
   Tested and proven cooking recipes in a readable to the point style.
-twitter_username: username
-github_username: username
+github_username: guhetier
 minimal_mistakes_skin: default
+logo: /assets/images/sel-poivre_logo_88x88.png
 search: true
 
 # Build settings
@@ -48,9 +48,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Sel Poivre"
+  avatar : "/assets/images/sel-poivre_logo.png"
+  bio    : "Sometimes, I cook."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
