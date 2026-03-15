@@ -11,7 +11,7 @@ description: >- # this means to ignore newlines
   Tested and proven cooking recipes in a readable to the point style.
 github_username: guhetier
 minimal_mistakes_skin: default
-logo: /assets/images/sel-poivre_logo_88x88.png
+logo: /assets/images/sel_poivre_logo_88x88.png
 search: true
 
 # Build settings
@@ -49,7 +49,7 @@ plugins:
 
 author:
   name   : "Sel Poivre"
-  avatar : "/assets/images/sel-poivre_logo.png"
+  avatar : "/assets/images/sel_poivre_logo.png"
   bio    : "Sometimes, I cook."
   links:
     - label: "GitHub"
