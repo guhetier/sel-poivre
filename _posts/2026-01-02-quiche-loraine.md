@@ -5,6 +5,7 @@ categories:
 sidebar:
   - title: Ingredients
     text: |
+      - Short crust
       - Heavy cream, 20cL
       - Milk, 20cL
       - 3 Eggs
