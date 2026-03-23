@@ -8,19 +8,19 @@ sidebar:
   - title: Ingredients (4p)
     text: |
       - Pork shoulder (boneless), 1kg
-      - Couscous, 250g
+      - Butter, 125g
       - Onions, 2
       - Garlic, 1 clove
-      - White wine, 15cL
-      - Butter, 125g
-      - Pineapple, 1 small
-      - Bananas, 2
-      - Lemon, 1
-      - Rum, ~15cL
-      - Brown sugar, 1 tbsp
-      - Cinnamon, 1 tsp
       - Nutmeg, 1 tsp
       - Chili powder, 1/2 tsp
+      - White wine, 15cL
+      - Lemon, 1
+      - Rum, ~15cL
+      - Pineapple, 1 small
+      - Bananas, 2
+      - Brown sugar, 1 tbsp
+      - Cinnamon, 1 tsp
+      - Couscous, 250g
       - Salt, pepper
 ---
 
