@@ -1,5 +1,5 @@
 ---
-title: "Quiche loraine"
+title: Quiche loraine
 categories:
   - Tarts and Pies
 sidebar:
@@ -8,7 +8,7 @@ sidebar:
       - Short crust
       - Heavy cream, 20cL
       - Milk, 20cL
-      - 3 Eggs
+      - Eggs, 3
       - Lardons, 200g
       - Salt
       - Pepper
